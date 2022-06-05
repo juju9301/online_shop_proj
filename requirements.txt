@@ -2,4 +2,4 @@ django==2.2.28
 celery==5.2.2
 braintree==3.55.0
 pillow==9.0.1
-flower==0.9.3
+flower==1.0.0
