@@ -1,4 +1,4 @@
-django==3.2.25
+django==4.2.16
 celery==5.2.2
 braintree==3.55.0
 pillow==10.3.0
